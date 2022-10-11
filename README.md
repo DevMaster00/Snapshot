@@ -1,2 +1,2 @@
 # Snapshot
-Personal Project
+Personal Project work shoecased here. Inputs are appreciated (if any)
